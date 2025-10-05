@@ -17,14 +17,6 @@ Este projeto implementa um tradutor de código Morse completo com interface grá
 - **Validação de Entrada**: Sistema robusto de validação para prevenir erros
 - **Interface Intuitiva**: Design simples e funcional usando JavaFX
 
-## 🏗️ Estrutura do Projeto
-com.example.pjb2/
-├── MorseApp.java          # Aplicação principal com interface gráfica
-├── MorseBST.java          # Implementação da árvore binária de busca
-├── MorseNode.java         # Classe do nó da árvore
-├── TreeVisualizer.java    # Visualizador alternativo da árvore
-└── module-info.java       # Configuração do módulo JavaFX
-
 ### 📦 Componentes
 
 #### 1. **MorseNode.java**
